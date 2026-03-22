@@ -31,6 +31,6 @@ The light novel that I wanted to read was only accessible online, I couldn't rea
 		```
 ## Pictures
 
-![[Sample_1.png]]
+![Sample 1](Sample_1.png)
 
-![[Sample_2.png]]
+![Sample 2](Sample_2.png)
